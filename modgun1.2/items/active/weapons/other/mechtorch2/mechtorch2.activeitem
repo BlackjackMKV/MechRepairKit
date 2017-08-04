@@ -78,5 +78,5 @@
     }
   },
 
-  "altAbilityType" : "adaptableammo",
+  "altAbilityType" : "flashlight",
   "builder" : "/items/buildscripts/buildunrandweapon.lua",
